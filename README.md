@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![GitHub license](https://img.shields.io/github/license/dazzlejc/IP-SpeedTest-Automation)
-![GitHub stars](https://img.shields.io/github/stars/dazzlejc/IP-SpeedTest-Automation?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dazzlejc/IP-SpeedTest-Automation?style=social)
+![GitHub license](https://img.shields.io/github/license/dazzlejc/iptest)
+![GitHub stars](https://img.shields.io/github/stars/dazzlejc/iptest?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dazzlejc/iptest?style=social)
 
 一个功能强大的IP测速工具，支持批量IP延迟测试、下载速度测试、地理位置识别和结果分析
 
@@ -67,8 +67,8 @@ git               # 用于代码管理
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/dazzlejc/IP-SpeedTest-Automation.git
-cd IP-SpeedTest-Automation
+git clone https://github.com/dazzlejc/iptest.git
+cd iptest
 ```
 
 ### 2. 安装依赖
@@ -325,7 +325,7 @@ echo "1.1.1.1 443" > test.txt
 
 ### 贡献方式
 
-1. **报告问题**: 在[Issues](https://github.com/dazzlejc/IP-SpeedTest-Automation/issues)中报告bug
+1. **报告问题**: 在[Issues](https://github.com/dazzlejc/iptest/issues)中报告bug
 2. **功能建议**: 提出新功能建议
 3. **代码贡献**: 提交Pull Request
 4. **文档改进**: 改进文档和示例
@@ -364,8 +364,8 @@ echo "1.1.1.1 443" > test.txt
 
 ### 📞 联系方式
 
-- 项目主页: [https://github.com/dazzlejc/IP-SpeedTest-Automation](https://github.com/dazzlejc/IP-SpeedTest-Automation)
-- 问题反馈: [Issues](https://github.com/dazzlejc/IP-SpeedTest-Automation/issues)
+- 项目主页: [https://github.com/dazzlejc/iptest](https://github.com/dazzlejc/iptest)
+- 问题反馈: [Issues](https://github.com/dazzlejc/iptest/issues)
 
 ---
 
