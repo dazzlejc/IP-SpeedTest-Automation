@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(move:*)",
+      "Bash(go build:*)",
+      "Bash(go:*)",
+      "Bash(node:*)",
+      "Bash(./iptest.exe)",
+      "Bash(env:*)",
+      "Bash(timeout:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
