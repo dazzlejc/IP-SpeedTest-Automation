@@ -7,3 +7,7 @@ ip_tq.csv
 ip_tq.txt
 locations.json
 package-lock.json
+temp_downloaded_ips.txt
+*.tmp
+temp_*
+*~
